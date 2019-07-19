@@ -12,6 +12,9 @@ img{
   margin-right: auto;
   width: 50%;
 }
+nav{
+  text-align: center;
+}
 nav a{
   width: 800px;
   margin: 0 auto;
