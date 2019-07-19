@@ -13,9 +13,7 @@ img{
   width: 50%;
 }
 a{
-  padding-left: 10px;
-  padding-right: 10px;
-  background-color: grey;
-  margin: auto;
-  display: inline-block;
+  text-align: center;
+  margin: 0 auto;
+  
 }
